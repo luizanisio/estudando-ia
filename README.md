@@ -11,7 +11,8 @@ Elasticsearch: https://www.elastic.co/
 NLP com redes neurais: Spacy: https://spacy.io/  https://github.com/explosion/spaCy
 IDE python: PyCharm https://www.jetbrains.com/pycharm/
 Cliente git: https://www.gitkraken.com
-Docker para conteinerizar os serviços python: https://hub.docker.com/_/python/
-Docker para conteinerizar o elasticsearch e kibana: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+Docker:
+  - conteinerizar os serviços python: https://hub.docker.com/_/python/
+  - conteinerizar o elasticsearch e kibana: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 
 
