@@ -1,10 +1,17 @@
 # estudando-ia
-Consolidando algumas dicas e estudos de IA e ML
 
-Em elaboração: uso de elasticsearch na classificação de documentos, identificação de fluxos de trabalho e textos relacionados (dicas, faq, etc). Uma forma simples, sustentável e rápida de implementar um classificador com bons resultados, sem a necessidade de geração e atualização de modelos.
+## Consolidando algumas dicas e estudos de IA e ML
 
-Em breve: algumas dicas e exemplos práticos de treinamento em redes neurais utilizando a biblioteca Spacy (criando modelos de extração de entidades, dependência entre elas e classificação de textos). O Spacy é uma ferramenta poderosa e relativamente simples de usar. 
+Resolvi consolidar alguns resultados de estudos realizados com o uso de elasticsearch e python para facilitar o trabalho de quem está iniciando nessa área. Esse não é um trabalho acadêmico e não visa esgotar todo o assunto.
 
+Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-los e usá-los no dia-a-dia. Estão mais próximos de receitas do tipo pegar, adaptar e usar.
+ 
+- <b> Elasticsearch</b> utilizando o elasticsearch na classificação de documentos, identificação de fluxos de trabalho e textos relacionados (dicas, faq, etc). Uma forma simples, sustentável e rápida de implementar um classificador com bons resultados, sem a necessidade de geração e atualização de modelos.
+ 
+- <b>Em breve</b>: algumas dicas e exemplos práticos de treinamento em redes neurais utilizando a biblioteca Spacy (criando modelos de extração de entidades, dependência entre elas e classificação de textos). O Spacy é uma ferramenta poderosa e relativamente simples de usar. 
+ 
+- Criando vetores de palavras (<b>word2vec</b>) com <b>Gensim</b> para tratar similaridade textual em domínios específicos com o uso do <b>Spacy</b>. Incluindo a visualização do universo de termos usando o <b>tensorboard</b>.
+ 
 ## Links interessantes:
 
 - Elasticsearch: https://www.elastic.co/
@@ -21,5 +28,4 @@ Em breve: algumas dicas e exemplos práticos de treinamento em redes neurais uti
 - <b>Aprendizagem Automática</b> (Stanford University)  https://www.coursera.org/learn/machine-learning/home/welcome
 
 ## Agradecimentos
-- Estou consolidando aqui estudos na área de IA/ML que de forma direta ou indireta tiveram a participação dos meus colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins, que me apresentaram ao mundo IA, e ao Ricardo Bernardes e João Bosco que contribuem diariamente no meu aprendizado em códigos e soluções diversas.
-
+- Estou consolidando aqui estudos na área de IA/ML que de forma direta ou indireta tiveram a participação dos meus colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins, que me apresentaram ao mundo IA. E de grandes profissionais como o Ricardo Bernardes e João Bosco que contribuem diariamente para o meu aprendizado em códigos e soluções diversas. 
