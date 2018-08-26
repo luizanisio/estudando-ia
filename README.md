@@ -21,5 +21,5 @@ Em breve: algumas dicas e exemplos práticos de treinamento em redes neurais uti
 - <b>Aprendizagem Automática</b> (Stanford University)  https://www.coursera.org/learn/machine-learning/home/welcome
 
 ## Agradecimentos
-- Estou consolidando aqui estudos na área de IA/ML que foram possíveis graças aos colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins que me apresentaram ao mundo IA, e ao Ricardo Bernardes que sempre contribuiu para o meu aprendizado ao longo da minha carreira profissional e agora me apresentou ao mundo docker. 
+- Estou consolidando aqui estudos na área de IA/ML que de forma direta ou indireta tiveram a participação dos meus colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins, que me apresentaram ao mundo IA, e ao Ricardo Bernardes e João Bosco que contribuem diariamente no meu aprendizado em códigos e soluções diversas.
 
