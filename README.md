@@ -5,17 +5,18 @@ Em elaboração: uso de elasticsearch na classificação de documentos, identifi
 
 Em breve: algumas dicas e exemplos práticos de treinamento em redes neurais utilizando a biblioteca Spacy (criando modelos de extração de entidades, dependência entre elas e classificação de textos). O Spacy é uma ferramenta poderosa e relativamente simples de usar. 
 
-# Links interessantes:
+## Links interessantes:
 
 Elasticsearch: https://www.elastic.co/
 NLP com redes neurais: Spacy: https://spacy.io/  https://github.com/explosion/spaCy
 IDE python: PyCharm https://www.jetbrains.com/pycharm/
 Cliente git: https://www.gitkraken.com
-Docker:
+
+### Docker:
   - conteinerizar os serviços python: https://hub.docker.com/_/python/
   - conteinerizar o elasticsearch e kibana: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 
-# Cursos gratuitos:
+## Cursos gratuitos:
 
 Aprendizagem Automática (Stanford University)  https://www.coursera.org/learn/machine-learning/home/welcome
 
