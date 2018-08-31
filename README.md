@@ -7,6 +7,8 @@ Resolvi consolidar alguns resultados de estudos realizados com o uso de elastics
 Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-los e usá-los no dia-a-dia. Estão mais próximos de receitas do tipo pegar, adaptar e usar.
  
 - <b> Elasticsearch</b> utilizando o elasticsearch na classificação de documentos, identificação de fluxos de trabalho e textos relacionados (dicas, faq, etc). Uma forma simples, sustentável e rápida de implementar um classificador com bons resultados, sem a necessidade de geração e atualização de modelos. https://github.com/luizanisio/classificador_elastic
+
+- <b> Elasticsearch</b> utilizando o elasticsearch para comparar dois documento e para sumarizar documentos encontrando as sentenças relevantes do mesmo. https://github.com/luizanisio/comparador_elastic
  
 - <b>Em elaboração</b> <i>(estou organizando os códigos)</i>: algumas dicas e exemplos práticos de treinamento em redes neurais utilizando a biblioteca Spacy (criando modelos de extração de entidades, dependência entre elas e classificação de textos). O Spacy é uma ferramenta poderosa e relativamente simples de usar. https://github.com/luizanisio/spacy_treino
  
