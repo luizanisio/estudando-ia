@@ -28,18 +28,20 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
   - conteinerizar os serviços python: https://hub.docker.com/_/python/
   - conteinerizar o elasticsearch e kibana: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 
-## Cursos gratuitos:
+## Cursos gratuitos básicos:
 
-- <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
 - <b>Curso Inteligência Artificial Fundamentos</b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
 - <b>Advanced NLP with spaCy</b>: https://course.spacy.io/
-- <b>MemSQL developer</b>: https://training.memsql.com/courses/memsql-65-developer-sp-training
 
-## Cursos acessíveis:
+## Cursos acessíveis básicos:
 - <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/share/101F6mAkUccFlbRHo=/
 - <b>End to End Data Science Practicum with Knime</b> (teoria e ferramenta) https://www.udemy.com/course/datascience-knime/learn/
+
+## Cursos gratuitos mais específicos/avançados:
+- <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
+- <b>MemSQL developer</b>: https://training.memsql.com/courses/memsql-65-developer-sp-training
 
 ## Agradecimentos
 - Estou consolidando aqui estudos na área de IA/ML e cada código ou exemplo tem a participação direta ou indireta dos meus colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins, que me apresentaram ao mundo IA. E de grandes profissionais como o Ricardo Bernardes e João Bosco que contribuem diariamente para o meu aprendizado em códigos e soluções diversas. E o meu padrinho Prof. Dr. Luciano Vieira Lima que desde sempre me dá dicas importantes em todas as áreas técnicas ou não.
