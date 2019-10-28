@@ -34,6 +34,8 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - <b>Curso Inteligência Artificial Fundamentos</b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
+- <b>Advanced NLP with spaCy</b>: https://course.spacy.io/
+- <b>MemSQL developer</b>: https://training.memsql.com/courses/memsql-65-developer-sp-training
 
 ## Cursos acessíveis:
 - <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/share/101F6mAkUccFlbRHo=/
