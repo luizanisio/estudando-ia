@@ -30,7 +30,14 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 
 ## Cursos gratuitos:
 
-- <b>Aprendizagem Automática</b> (Stanford University)  https://www.coursera.org/learn/machine-learning/home/welcome
+- <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
+- <b>Curso Inteligência Artificial Fundamentos</b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
+- <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
+- <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
+
+## Cursos acessíveis:
+- <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/share/101F6mAkUccFlbRHo=/
+- <b>End to End Data Science Practicum with Knime</b> (teoria e ferramenta) https://www.udemy.com/course/datascience-knime/learn/
 
 ## Agradecimentos
 - Estou consolidando aqui estudos na área de IA/ML e cada código ou exemplo tem a participação direta ou indireta dos meus colegas de trabalho Rodrigo López, Thiago Gomes e Amilar Martins, que me apresentaram ao mundo IA. E de grandes profissionais como o Ricardo Bernardes e João Bosco que contribuem diariamente para o meu aprendizado em códigos e soluções diversas. E o meu padrinho Prof. Dr. Luciano Vieira Lima que desde sempre me dá dicas importantes em todas as áreas técnicas ou não.
