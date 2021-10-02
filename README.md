@@ -47,14 +47,14 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
 - <b>Advanced NLP with spaCy</b>: https://course.spacy.io/
-- Introdução IA: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
-- Spacy: https://course.spacy.io/es/
-- Python completo: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-- Introdução à ciência de dados: https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados
-- Aprendizagem profunda: https://www.coursera.org/specializations/deep-learning
-- Kmine: https://www.udemy.com/course/datascience-knime/learn/lecture/13678654#overview
-- Weka: https://www.udemy.com/course/machine-learning-e-deep-learning/learn/lecture/10409622?start=0#overview
-- Deeplizard - aprendizagem profunda com tensorflow: https://deeplizard.com/
+- <b>Introdução IA </b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
+- <b>Spacy</b>: https://course.spacy.io/es/
+- <b>Python completo</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
+- <b>Introdução à ciência de dados</b>: https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados
+- <b>Aprendizagem profunda</b>: https://www.coursera.org/specializations/deep-learning
+- <b>Kmine</b>: https://www.udemy.com/course/datascience-knime/learn/lecture/13678654#overview
+- <b>Weka</b>: https://www.udemy.com/course/machine-learning-e-deep-learning/learn/lecture/10409622?start=0#overview
+- <b>Deeplizard - aprendizagem profunda com tensorflow</b>: https://deeplizard.com/
 
 ## Cursos acessíveis básicos:
 - <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/share/101F6mAkUccFlbRHo=/
