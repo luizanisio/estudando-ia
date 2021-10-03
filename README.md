@@ -2,10 +2,11 @@
 
 ## Consolidando algumas dicas e estudos de IA e ML
 
-Resolvi consolidar alguns resultados de estudos realizados com o uso de elasticsearch e python e ferramentas/framework de IA/ML para facilitar o trabalho de quem está iniciando nessa área. Esse não é um trabalho acadêmico e não visa esgotar todo o assunto, é um espaço de compartilhamento de conhecimento adquirido. Divirta-se!
+Resolvi consolidar alguns resultados de estudos realizados com o uso de elasticsearch e python e ferramentas/framework de IA/ML para facilitar o trabalho de quem está iniciando nessa área. Esse não é um trabalho acadêmico e não visa esgotar todo o assunto, é um espaço de compartilhamento de conhecimento adquirido. <br>
+Divirta-se!<br>
 Coloquei o ano na referência de alguns conteúdos para refletir a linha de tempo.
 
-### Minha pequena reflexão sobre aprendizado de máquina e humano: 
+### Minha pequena reflexão sobre aprendizado de máquina vs humano: 
  - A máquina identifica padrões para responder a uma nova informação com dados usados no treino e sugere respostas prováveis com base nos dados selecionados por `humanos` para esse treinamento. Sua capacidade de aprendizado é limitada aos padrões identificados nos dados selecionados para o treino, e que precisam ser atualizados de tempos em tempos com dados de qualidade, exigindo esforço humano para isso. É uma ótima opção para tarefas simples e repetitivas. <i>A máquina não se cansa de fazer a mesma coisa da mesma forma indefinidamente.</i>
  - Humanos identificam padrões para responder a uma nova experiência ao comparar as informações disponíveis com uma rica e complexa bagagem  `cultural`, `pessoal` e `profissional`, podendo buscar e interpretar novas fontes de informação e acrescentá-las quase em tempo real à sua experiência de vida, permitindo sugerir respostas mais adequadas aos novos contextos. <i>Sua capacidade de aprendizado é praticamente ilimitada</i>, o limite é o tempo e o desgaste biológico no processo de aprendizado.
  - O objetivo dos projetos de IA é liberar humanos de tarefas repetitivas, simples e que exigem pouca inteligência na sua execução, para que esses humanos possa realizar melhor tarefas realmente inteligentes.
