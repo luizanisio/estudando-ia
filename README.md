@@ -36,7 +36,7 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - sklearn: http://scikit-learn.org
 - Framework Gensim (vetorização): https://radimrehurek.com/gensim/
 - Cadeia de Markov: https://en.wikipedia.org/wiki/Markov_chain
-- Redes Neurais, como funsionam? [Prof Vinicius Caridá - parte 1](https://www.youtube.com/watch?v=EtnBTb0MKqs), [Prof Vinicius Caridá - parte 2](https://www.youtube.com/watch?v=kgReLNhXsOI) e [Prof Vinicius Caridá - parte 3](https://www.youtube.com/watch?v=UHR2LIw4KMA)
+- Redes Neurais, como funsionam? [Prof Vinicius Caridá - parte 1](https://www.youtube.com/watch?v=EtnBTb0MKqs), [Prof Vinicius Caridá - parte 2](https://www.youtube.com/watch?v=kgReLNhXsOI) e [Prof Vinicius Caridá - parte 3](https://www.youtube.com/watch?v=UHR2LIw4KMA) - [github da live](https://github.com/vfcarida/Live_Redes-Neurais)
 - SVM, como funciona? [Prof Vinicius Caridá](https://www.youtube.com/watch?v=E3DRhPymT6Y)
 - Elasticsearch: https://www.elastic.co/
 - MemSQL / SingleStore (banco de dados vetorial NewSQL): https://www.singlestore.com/
