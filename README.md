@@ -31,15 +31,16 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
  
 ## Links interessantes:
 `2021` 
-- Elasticsearch: https://www.elastic.co/
-- NLP com redes neurais: Spacy: https://spacy.io/  https://github.com/explosion/spaCy
+- NLP com redes neurais: Spacy: https://spacy.io/ - https://github.com/explosion/spaCy
 - sklearn: http://scikit-learn.org
-- IDE python: PyCharm https://www.jetbrains.com/pycharm/
-- Cliente git: https://www.gitkraken.com
-- Framework Spacy: https://spacy.io/
 - Framework Gensim (vetorização): https://radimrehurek.com/gensim/
-- MemSQL / SingleStore (banco de dados vetorial NewSQL): https://www.singlestore.com/
 - Cadeia de Markov: https://en.wikipedia.org/wiki/Markov_chain
+- Redes Neurais, como funsionam? [Prof Vinicius Caridá - parte 1](https://www.youtube.com/watch?v=EtnBTb0MKqs), [Prof Vinicius Caridá - parte 2](https://www.youtube.com/watch?v=kgReLNhXsOI) e [Prof Vinicius Caridá - parte 3](https://www.youtube.com/watch?v=UHR2LIw4KMA)
+- SVM, como funciona? [Prof Vinicius Caridá](https://www.youtube.com/watch?v=E3DRhPymT6Y)
+- Elasticsearch: https://www.elastic.co/
+- MemSQL / SingleStore (banco de dados vetorial NewSQL): https://www.singlestore.com/
+- IDE python: [PyCharm](https://www.jetbrains.com/pycharm/), [VSCode](https://visualstudio.microsoft.com/pt-br/vs/community/)
+- Cliente git: https://www.gitkraken.com
 
 ## Ferramentas 
 `2020` 
@@ -57,9 +58,8 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - <b>Curso Inteligência Artificial Fundamentos</b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
-- <b>Advanced NLP with spaCy</b>: https://course.spacy.io/
+- <b>Advanced NLP with spaCy</b>: [spacy2](https://course.spacy.io/) e [spacy3](https://spacy.io/usage/v3/)
 - <b>Introdução IA </b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
-- <b>Spacy</b>: https://course.spacy.io/es/
 - <b>Python completo</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Introdução à ciência de dados</b>: https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados
 - <b>Aprendizagem profunda</b>: https://www.coursera.org/specializations/deep-learning
