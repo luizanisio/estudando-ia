@@ -76,7 +76,7 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 ## Cursos gratuitos mais específicos/avançados:
 `2019` 
 - <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
-- <b>MemSQL developer</b>: https://training.memsql.com/courses/memsql-65-developer-sp-training
+- <b>SingleStore/MemSQL cursos oficiais</b>: https://training.singlestore.com/
 <hr>
 
 ## Agradecimentos
