@@ -60,7 +60,6 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
 - <b>Advanced NLP with spaCy</b>: [spacy2](https://course.spacy.io/) e [spacy3](https://spacy.io/usage/v3/)
-- <b>Introdução IA </b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 - <b>Python completo</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 - <b>Introdução à ciência de dados</b>: https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados
 - <b>Aprendizagem profunda</b>: https://www.coursera.org/specializations/deep-learning
