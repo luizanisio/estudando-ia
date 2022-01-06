@@ -76,6 +76,7 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 `2019` 
 - <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
 - <b>SingleStore/MemSQL cursos oficiais</b>: https://training.singlestore.com/
+- <b>HarvardX CS50's Introduction to Artificial Intelligence with Python</b>: https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 <hr>
 
 ## Agradecimentos
