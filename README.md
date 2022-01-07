@@ -73,7 +73,7 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 - <b>End to End Data Science Practicum with Knime</b> (teoria e ferramenta) https://www.udemy.com/course/datascience-knime/learn/
 
 ## Cursos gratuitos mais específicos/avançados:
-`2021` 
+`2022` 
 - <b>HarvardX CS50's</b> Introduction to Artificial Intelligence with Python: https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - <b>Aprendizagem Automática</b> (Stanford University):  https://www.coursera.org/learn/machine-learning/home/welcome
 - <b>SingleStore/MemSQL</b> cursos oficiais: https://training.singlestore.com/
