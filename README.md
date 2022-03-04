@@ -5,7 +5,7 @@
 Resolvi consolidar alguns resultados de estudos realizados com o uso de elasticsearch e python e ferramentas/framework de IA/ML para facilitar o trabalho de quem está iniciando nessa área. Esse não é um trabalho acadêmico e não visa esgotar todo o assunto, é um espaço de compartilhamento de conhecimento adquirido. <br>
 Divirta-se!<br>
 Coloquei o ano na referência de alguns conteúdos para refletir a linha de tempo.
-- Mais abaixo listo alguns [`links interessantes`](#links-interessantes) e links para [`cursos`](#cursos-gratuitos-b%C3%A1sicos) para uma trilha de aprendizagem.
+- Mais abaixo listo alguns [links interessantes](#links-interessantes) e links para [cursos](#cursos-gratuitos-b%C3%A1sicos) para uma trilha de aprendizagem. Também uma [explicação rápida](#o-que-voc%C3%AA-pode-encontrar-por-aqui) dos códigos disponibilizados nesse repositório.
 
 ### 💡 Minha pequena reflexão sobre aprendizado de máquina vs humano: 
  - 🖥️ A máquina identifica padrões para responder a uma nova informação com dados usados no treino e sugere respostas prováveis com base nos dados selecionados por `humanos` para esse treinamento. Sua capacidade de aprendizado é limitada aos padrões identificados nos dados selecionados para o treino, e que precisam ser atualizados de tempos em tempos com dados de qualidade, exigindo esforço humano para isso. É uma ótima opção para tarefas simples e repetitivas. <i>A máquina não se cansa de fazer a mesma coisa da mesma forma indefinidamente.</i>
