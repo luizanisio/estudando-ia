@@ -71,8 +71,11 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 
 ## Cursos acessíveis básicos:
 `2021` 
-- <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/share/101F6mAkUccFlbRHo=/
+- <b>Curso Machine Learning para todos</b> (com Weka): https://www.udemy.com/course/machine-learning-e-deep-learning/
 - <b>End to End Data Science Practicum with Knime</b> (teoria e ferramenta) https://www.udemy.com/course/datascience-knime/learn/
+
+`2022`
+- <b>Machine Learning e Data Science com Python de A a Z</b>: https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/
 
 ## Cursos gratuitos mais específicos/avançados:
 `2022` 
