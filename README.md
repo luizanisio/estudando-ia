@@ -16,7 +16,7 @@ Coloquei o ano na referência de alguns conteúdos para refletir a linha de temp
 ## O que você pode encontrar por aqui: 
 Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-los e usá-los no dia-a-dia. Estão mais próximos de receitas do tipo pegar, analisar, adaptar e usar. Sempre que possível estarei incluindo novos estudos e códigos funcionais.
 
-- `2022` <b> Serviço-OCR </b> ainda em um formato de prova de conceito (nov/2022). O objetivo é analisar a qualidade, performance e regiões identificadas pelo Tesseract para permitir a criação de regras ou treinamento de modelos para identificar regiões como Citações, Estampas laterais, Cabeçalho e Rodapé. A identificação pode ser feita por regras simples, como margens em páginas padronizadas (A4, Carta, Legal etc). E também pode ser identificado por repetições de textos em áreas específicas, como cabeçalhos e rodapés. Quando as regras não forem suficientes, pode-se treinar um modelo com as informações mapeadas pela extração, como número de palavras, bordas, margens, posicionamento, dentre outras.
+- `2022` <b> Serviço-OCR </b> ainda em um formato de prova de conceito (nov/2022). O objetivo do [Servico-OCR](https://github.com/luizanisio/Servico-OCR) é analisar a qualidade, performance e regiões identificadas pelo Tesseract para permitir a criação de regras ou treinamento de modelos para identificar regiões como Citações, Estampas laterais, Cabeçalho e Rodapé. A identificação pode ser feita por regras simples, como margens em páginas padronizadas (A4, Carta, Legal etc). E também pode ser identificado por repetições de textos em áreas específicas, como cabeçalhos e rodapés. Quando as regras não forem suficientes, pode-se treinar um modelo com as informações mapeadas pela extração, como número de palavras, bordas, margens, posicionamento, dentre outras.
 
 - `2021` <b> Elasticsearch fácil e preciso</b> como transformar o uso de operadores simples e de proximidade de termos em consultas robustas do ElasticSearch sem que o usuário precise conhecer a sintaxe do ElasticSearch, veja aqui: [PesquisaElasticFacil](https://github.com/luizanisio/PesquisaElasticFacil) , incluindo dicas de queries mais robustas do ElasticSearch para proximidade de termos, veja aqui: [ElasticQueries](https://github.com/luizanisio/PesquisaElasticFacil/blob/main/docs/ElasticQueries.md).
 
@@ -62,14 +62,12 @@ Alguns tópicos abordados aqui com exemplos funcionais e dicas de como evoluí-l
 `2021` 
 - <b>Curso Inteligência Artificial Fundamentos</b>: https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos
 - <b>Python Fundamentos para Análise de Dados</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-- <b>Bootcamp for KNIME Analytics Platform</b> (teoria e ferramenta) https://www.udemy.com/course/knime-bootcamp/
+- <b>End to End Data Science Practicum with Knime</b> (teoria e ferramenta) https://www.udemy.com/course/datascience-knime/
 - <b>Advanced NLP with spaCy</b>: [spacy2](https://course.spacy.io/) e [spacy3](https://spacy.io/usage/v3/)
-- <b>Python completo</b>: https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-- <b>Introdução à ciência de dados</b>: https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados
-- <b>Aprendizagem profunda</b>: https://www.coursera.org/specializations/deep-learning
-- <b>Kmine</b>: https://www.udemy.com/course/datascience-knime/learn/lecture/13678654#overview
+- <b>Introdução à ciência de dados e outros</b>: https://www.datascienceacademy.com.br/cursosgratuitos
+- <b>Aprendizagem profunda (avançado)</b>: https://www.coursera.org/specializations/deep-learning
 - <b>Weka</b>: https://www.udemy.com/course/machine-learning-e-deep-learning/learn/lecture/10409622?start=0#overview
-- <b>Deeplizard - aprendizagem profunda com tensorflow</b>: https://deeplizard.com/
+- <b>Deeplizard - aprendizagem profunda com tensorflow (avançado)</b>: https://deeplizard.com/
 
 ## Cursos acessíveis básicos:
 `2021` 
